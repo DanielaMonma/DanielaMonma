@@ -2,6 +2,8 @@
 
 "My name is Daniela Monma, and I am currently learning C and Unix at 42 école, where these subjects form the core of the curriculum."
 
+[![danielpe's 42 stats](https://badge.mediaplus.ma/starryblue/danielpe)](https://github.com/oakoudad/badge42)
+
 ## 📩 Contact me:
 
 <div align="left" style="display: inline-block">
@@ -11,13 +13,12 @@
 
 ## 🏅 42sp Projects Badges:
 
-<div>
-		<picture>
-			<img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
-		</picture>
+<div align="left" style="display: inline-block">
+<img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
 <div id="piscine" style="display: inline-block; vertical-align: middle;">
 
-[![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine)
+[![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine);
+
 
 </div>
 <div id="title_phase_one" style="margin: 0px 0px 3px;">
