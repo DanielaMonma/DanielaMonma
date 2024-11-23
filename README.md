@@ -19,7 +19,7 @@
 	</div>
 <div id="piscine" style="display: inline-block; vertical-align: middle;">
 
-[[Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine)
+[![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine)
 
 </div>
 <div id="title_phase_one" style="margin: 0px 0px 3px;">
