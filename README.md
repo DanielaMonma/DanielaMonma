@@ -11,13 +11,13 @@
 </div>
 
 ## 🏅 42sp Projects Badges:
+
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="display: flex; align-items: center;">
 <img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
 <div id="piscine" style="display: inline-block; vertical-align: middle;">
 
 [![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine);
-</div>
 
 <div style="display: flex; align-items: center;">
 <img alt="WarmUp" src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42">
@@ -31,7 +31,7 @@
 <div id="Level_zero" style="display: inline-block; vertical-align: middle;">
 
 [![Libft](./42%20badge/libftn.png)](https://github.com/DanielaMonma/Libft.c)
-</div>
+
 <div align="left" style="display: inline-block">
 <img alt="Level one" src="https://img.shields.io/badge/School-Level one-skyblue?style=for-the-badge&&logo=42">
 <div id="Level_one" style="display: inline-block; vertical-align: middle;">
