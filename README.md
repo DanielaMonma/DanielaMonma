@@ -19,7 +19,7 @@
 	</div>
 <div id="piscine" style="display: inline-block; vertical-align: middle;">
 
-[![Piscine](42 badges/piscina.png)](https://github.com/DanielaMonma/C---Piscine)
+[![Piscine](42 badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine)
 
 </div>
 <div id="title_phase_one" style="margin: 0px 0px 3px;">
@@ -29,7 +29,7 @@
 </div>
 <div id="WarmUp" style="display: inline-block; vertical-align: middle;">
 
-[![P2P](42 badges/phase_onee.png)]
+[![P2P](42 badge/phase_onee.png)]
 
 <div id="title_phase_one" style="margin: 0px 0px 3px;">
 	<picture>
@@ -38,10 +38,10 @@
 </div>
 <div id="phase_one" style="display: inline-block; vertical-align: middle;">
 
-[![Libft](42 badges/libftn.png)](https://github.com/DanielaMonma/Libft.c)
-[![Get next line](42 badges/get_next_linee.png)]
-[![Printf](42 badges/ft_printfn.png)]
-[![Born 2 be root](42 badges/born2berootm.png)]
+[![Libft](42 badge/libftn.png)](https://github.com/DanielaMonma/Libft.c)
+[![Get next line](42 badge/get_next_linee.png)]
+[![Printf](42 badge/ft_printfn.png)]
+[![Born 2 be root](42 badge/born2berootm.png)]
 </div>
 </div>
 <h2></h2>
