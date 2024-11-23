@@ -8,7 +8,6 @@
 
 <div align="left" style="display: inline-block">
 	<a href="https://www.linkedin.com/in/danielamonma/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	
 </div>
 
 ## 🏅 42sp Projects Badges:
@@ -18,24 +17,17 @@
 <div id="piscine" style="display: inline-block; vertical-align: middle;">
 
 [![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine);
-
-
 </div>
+
 <div id="title_phase_one" style="margin: 0px 0px 3px;">
-	<picture>
-		<img alt="WarmUp" src="">
-	</picture>
-</div>
+<img alt="WarmUp" src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42">
 <div id="WarmUp" style="display: inline-block; vertical-align: middle;">
 
-[![WarmUp](./42%20badge/phase_onee.png)]()
-
-<div id="title_phase_one" style="margin: 0px 0px 3px;">
-	<picture>
-		<img alt="Phase one" src="https://img.shields.io/badge/School-Phase_one-skyblue?style=for-the-badge&&logo=42">
-	</picture>
+[![WarmUp](./42%20badge/phase_onee.png)]();
 </div>
 
+<div align="left" style="display: inline-block">
+<img alt="Phase one" src="https://img.shields.io/badge/School-Phase_one-skyblue?style=for-the-badge&&logo=42">
 <div id="phase_one" style="display: inline-block; vertical-align: middle;">
 
 [![Libft](./42%20badge/libftn.png)](https://github.com/DanielaMonma/Libft.c)
