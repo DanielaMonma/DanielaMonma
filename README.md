@@ -27,7 +27,7 @@
 </div>
 <div id="WarmUp" style="display: inline-block; vertical-align: middle;">
 
-[![WarmUp](./42%20badge/phase_onee.png)] ()
+[![WarmUp](./42%20badge/phase_onee.png)]()
 
 <div id="title_phase_one" style="margin: 0px 0px 3px;">
 	<picture>
