@@ -11,15 +11,15 @@
 </div>
 
 ## 🏅 42sp Projects Badges:
-
-<div align="left" style="display: inline-block">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="display: flex; align-items: center;">
 <img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
 <div id="piscine" style="display: inline-block; vertical-align: middle;">
 
 [![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine);
 </div>
 
-<div id="title_phase_one" style="margin: 0px 0px 3px;">
+<div style="display: flex; align-items: center;">
 <img alt="WarmUp" src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42">
 <div id="WarmUp" style="display: inline-block; vertical-align: middle;">
 
