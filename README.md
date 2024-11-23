@@ -6,40 +6,40 @@
 
 ## 📩 Contact me:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="display: flex; align-items: center;">
-    <img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
-    <a href="https://github.com/DanielaMonma/C---Piscine">
-      <img src="./42%20badge/piscina.png" alt="Piscine">
-    </a>
-  </div>
-
-  <div style="display: flex; align-items: center;">
-    <img alt="WarmUp" src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42">
-    <a href="#">
-      <img src="./42%20badge/phase_onee.png" alt="WarmUp">
-    </a>
-  </div>
-
-  <div style="display: flex; align-items: center;">
-    <img alt="Level zero" src="https://img.shields.io/badge/School-Level_zero-skyblue?style=for-the-badge&&logo=42">
-    <a href="https://github.com/DanielaMonma/Libft.c">
-      <img src="./42%20badge/libftn.png" alt="Libft">
-    </a>
-  </div>
-
-  <div style="display: flex; align-items: center;">
-    <img alt="Level one" src="https://img.shields.io/badge/School-Level_one-skyblue?style=for-the-badge&&logo=42">
-    <a href="#">
-      <img src="./42%20badge/ft_printfn.png" alt="Printf">
-    </a>
-    <a href="#">
-      <img src="./42%20badge/get_next_linee.png" alt="Get next line">
-    </a>
-    <a href="#">
-      <img src="./42%20badge/born2beroote.png" alt="Born 2 be root">
-    </a>
-  </div>
+<div align="left" style="display: inline-block">
+	<a href="https://www.linkedin.com/in/danielamonma/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+## 🏅 42sp Projects Badges:
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="display: flex; align-items: center;">
+<img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
+<div id="piscine" style="display: inline-block; vertical-align: middle;">
+
+[![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine);
+</div>
+
+<div style="display: flex; align-items: center;">
+<img alt="WarmUp" src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42">
+<div id="WarmUp" style="display: inline-block; vertical-align: middle;">
+
+[![WarmUp](./42%20badge/phase_onee.png)]();
+</div>
+
+<div align="left" style="display: inline-block">
+<img alt="Level zero" src="https://img.shields.io/badge/School-Level_zero-skyblue?style=for-the-badge&&logo=42">
+<div id="Level_zero" style="display: inline-block; vertical-align: middle;">
+
+[![Libft](./42%20badge/libftn.png)](https://github.com/DanielaMonma/Libft.c)
+</div>
+<div align="left" style="display: inline-block">
+<img alt="Level one" src="https://img.shields.io/badge/School-Level one-skyblue?style=for-the-badge&&logo=42">
+<div id="Level_one" style="display: inline-block; vertical-align: middle;">
+
+[![Printf](./42%20badge/ft_printfn.png)](loading...)
+[![Get next line](./42%20badge/get_next_linee.png)](loading...)
+[![Born 2 be root](./42%20badge/born2beroote.png)](loading...)
+</div>
+</div>
+<h2></h2>
 
