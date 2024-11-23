@@ -32,7 +32,6 @@
 
 [![Libft](./42%20badge/libftn.png)](https://github.com/DanielaMonma/Libft.c)
 
-<div align="left" style="display: inline-block">
 <img alt="Level one" src="https://img.shields.io/badge/School-Level one-skyblue?style=for-the-badge&&logo=42">
 <div id="Level_one" style="display: inline-block; vertical-align: middle;">
 
