@@ -11,12 +11,10 @@
 
 ## 🏅 42sp Projects Badges:
 
-<div id="body" style="margin: 0px">
-	<div id="title_piscine" style="margin: 0px 0px 3px;">
+<div>
 		<picture>
 			<img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
 		</picture>
-	</div>
 <div id="piscine" style="display: inline-block; vertical-align: middle;">
 
 [![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine)
