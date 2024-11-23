@@ -29,19 +29,20 @@
 </div>
 <div id="WarmUp" style="display: inline-block; vertical-align: middle;">
 
-[![WarmUp](./42%20badge/phase_onee.png)]
+[![WarmUp](./42%20badge/phase_onee.png)] ()
 
 <div id="title_phase_one" style="margin: 0px 0px 3px;">
 	<picture>
 		<img alt="Phase one" src="https://img.shields.io/badge/School-Phase_one-skyblue?style=for-the-badge&&logo=42">
 	</picture>
 </div>
+
 <div id="phase_one" style="display: inline-block; vertical-align: middle;">
 
 [![Libft](./42%20badge/libftn.png)](https://github.com/DanielaMonma/Libft.c)
-[![Get next line](./42%20badge/get_next_linee.png)]
-[![Printf](./42%20badge/ft_printfn.png)]
-[![Born 2 be root](./42%20badge/born2beroote.png)]
+[![Get next line](./42%20badge/get_next_linee.png)](loading...)
+[![Printf](./42%20badge/ft_printfn.png)](loading...)
+[![Born 2 be root](./42%20badge/born2beroote.png)](loading...)
 </div>
 </div>
 <h2></h2>
