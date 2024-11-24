@@ -12,25 +12,14 @@
 
 ## 🏅 42sp Projects Badges:
 
-<div align="letf" style="display: flex; justify-content: space-between; gap: 10px;">
-  <div style="display: flex; align-items: center;">
-    <img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
-    <img alt="WarmUp" src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42">
-    <img alt="Level zero" src="https://img.shields.io/badge/School-Level_zero-skyblue?style=for-the-badge&&logo=42">
-  </div>
-  
-  <div style="display: flex; align-items: center;">
-    <a href="https://github.com/DanielaMonma/C---Piscine">
-      <img src="./42%20badge/piscina.png" alt="Piscine">
-    </a>
-    <a href="#">
-      <img src="./42%20badge/phase_onee.png" alt="WarmUp">
-    </a>
-    <a href="https://github.com/DanielaMonma/Libft.c">
-      <img src="./42%20badge/libftn.png" alt="Libft">
-    </a>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42" alt="Piscine" style="margin-right: 20px;">
+<img src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42" alt="WarmUp" style="margin-right: 20px;">
+<img src="https://img.shields.io/badge/School-Level_zero-skyblue?style=for-the-badge&&logo=42" alt="Level zero">
+
+[![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine);
+[![WarmUp](./42%20badge/phase_onee.png)]();
+[![Libft](./42%20badge/libftn.png)](https://github.com/DanielaMonma/Libft.c)
+
 
 <div align="left" style="display: inline-block">
 <img alt="Level one" src="https://img.shields.io/badge/School-Level one-skyblue?style=for-the-badge&&logo=42">
