@@ -12,7 +12,7 @@
 
 ## 🏅 42sp Projects Badges:
 
-<img src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42" alt="Piscine" style="margin-right: 10px;">
+[![Piscina]]("https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42")
 <img src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42" alt="WarmUp" style="margin-right: 10px;">
 <img src="https://img.shields.io/badge/School-Level_zero-skyblue?style=for-the-badge&&logo=42" alt="Level zero">
 
