@@ -12,7 +12,7 @@
 
 ## 🏅 42sp Projects Badges:
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap:15px;">
+<div align="left" style="display: flex; gap:15px;">
   <div style="display: flex; align-items: center;">
 <img alt="piscine title" src="https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42">
 <img alt="WarmUp" src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42">
