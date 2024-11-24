@@ -12,11 +12,14 @@
 
 ## 🏅 42sp Projects Badges:
 
-[![Piscina]]("https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42")
+[![Piscina]](https://img.shields.io/badge/School-Piscine-skyblue?style=for-the-badge&&logo=42);
 <img src="https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42" alt="WarmUp" style="margin-right: 10px;">
 <img src="https://img.shields.io/badge/School-Level_zero-skyblue?style=for-the-badge&&logo=42" alt="Level zero">
 
 [![Piscine](./42%20badge/piscina.png)](https://github.com/DanielaMonma/C---Piscine);
+![WarmUp](https://img.shields.io/badge/School-WarmUp-skyblue?style=for-the-badge&&logo=42)
+![Level zero](https://img.shields.io/badge/School-Level_zero-skyblue?style=for-the-badge&&logo=42)
+
 [![WarmUp](./42%20badge/phase_onee.png)]();
 [![Libft](./42%20badge/libftn.png)](https://github.com/DanielaMonma/Libft.c)
 
